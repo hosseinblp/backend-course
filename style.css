@@ -1,0 +1,18 @@
+h1 {
+    background-color: #e6e6e6;
+}
+.text-green {
+    color: green;
+}
+.hossein {
+    font-size: 24px;
+}
+#brand {
+    color: red;
+}
+
+ul li {
+    font-size: 18px;
+    padding: 4px;
+    color: rgb(52, 0, 137);
+}
